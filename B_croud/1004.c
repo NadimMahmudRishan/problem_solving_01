@@ -1,5 +1,6 @@
+//Name : Nadim Mahmud Rishan
+//ID   : 221-35-952
 #include<stdio.h>
-
 int main()
 {
 int a,b,PROD;
